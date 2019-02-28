@@ -6,3 +6,4 @@ read vlg
 
 echo "Your name is: " $name
 echo "Your village: " $vlg
+date
