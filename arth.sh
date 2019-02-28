@@ -1,3 +1,4 @@
+echo "Addition of two numbers"
 a=8
 b=6
 result=`expr $a + $b`
